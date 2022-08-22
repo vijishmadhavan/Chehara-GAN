@@ -32,7 +32,7 @@ Dataset was generated using the below models.
 
 -[GFPGAN](https://github.com/TencentARC/GFPGAN)
 
-[ffhq](https://github.com/NVlabs/ffhq-dataset) can be used, but generating a dataset would help in dealing with real image problems.
+-[FFHQ](https://github.com/NVlabs/ffhq-dataset) can be used, but generating a dataset would help in dealing with real image problems.
 
 
 ### Implementation Details
