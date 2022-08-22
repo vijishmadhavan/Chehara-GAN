@@ -12,6 +12,9 @@ If you like what I'm doing you can:
 
 **Changelog**
 
+* 2022-08-022 Colab demo v0.1 [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/vijishmadhavan/Chehara-GAN/blob/master/%E0%A4%9A%E0%A5%87%E0%A4%B9%E0%A4%B0%E0%A4%BE_GAN.ipynb)
+
+
 * 2022-08-022 Fast.ai model training [url](https://github.com/aarcosg/fastai-course-v3-notes/blob/master/refactored_by_topics/CNN_L7_gan_feature-loss.md)
 
 
