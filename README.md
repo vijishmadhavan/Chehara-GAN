@@ -1,6 +1,6 @@
 # चेहरा-GAN
 
-Demo:
+**Demo:**
 
 If you like what I'm doing you can:
 
