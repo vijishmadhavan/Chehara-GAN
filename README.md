@@ -8,4 +8,7 @@ If you like what I'm doing you can:
 
 
 
+### Image samples 
+
+
 ![Superstar](https://github.com/vijishmadhavan/Chehara-GAN/blob/master/compare/ami-side.jpg)
