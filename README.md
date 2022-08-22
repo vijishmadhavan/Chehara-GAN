@@ -2,8 +2,6 @@
 
 A simple project, trained within a day or two using faicial features.
 
-
-
 **Demo:**
 
 If you like what I'm doing you can:
@@ -41,6 +39,11 @@ Dataset was generated using the below models.
 -[GFPGAN](https://github.com/TencentARC/GFPGAN)
 
 -[FFHQ](https://github.com/NVlabs/ffhq-dataset) can be used, but generating a dataset would help in dealing with real image problems.
+
+- Generated dataset was croped to facial features and then trained.
+
+![Superstar](https://github.com/vijishmadhavan/Chehara-GAN/blob/master/compare/facial%20feature-side.jpg)
+
 
 
 ### Implementation Details
