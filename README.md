@@ -7,6 +7,9 @@ If you like what I'm doing you can:
 - Follow me on [twitter](https://twitter.com/Vijish68859437)
 - Check my other projects [GitHub](https://github.com/vijishmadhavan)
 
+**Changelog**
+
+* 2022-08-022 Fast.ai model training [url](https://github.com/aarcosg/fastai-course-v3-notes/blob/master/refactored_by_topics/CNN_L7_gan_feature-loss.md)
 
 
 ### Image samples 
