@@ -6,6 +6,7 @@ If you like what I'm doing you can:
 
 - Follow me on [twitter](https://twitter.com/Vijish68859437)
 - Check my other projects [GitHub](https://github.com/vijishmadhavan)
+- You can sponsor me to support my open source work 💖 [sponsor](https://github.com/sponsors/vijishmadhavan?o=sd&sc=t)
 
 **Changelog**
 
