@@ -1,5 +1,9 @@
 # चेहरा-GAN
 
+A simple project, trained within a day or two using faicial features.
+
+
+
 **Demo:**
 
 If you like what I'm doing you can:
