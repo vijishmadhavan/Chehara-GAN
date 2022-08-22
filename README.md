@@ -53,5 +53,8 @@ Dataset was generated using the below models.
 - Model architecture: [fastai v1 u-net](https://fastai1.fast.ai/vision.models.unet.html)
 - Paired image2image training: [fastai v1 superres notebook](https://github.com/aarcosg/fastai-course-v3-notes/blob/master/refactored_by_topics/CNN_L7_gan_feature-loss.md)
 
+### Limitation
+
+I call this a trial v0.1 as it needs improvement, I would like to train this with a big dataset.
 
 
