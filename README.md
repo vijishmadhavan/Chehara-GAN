@@ -26,11 +26,14 @@ If you like what I'm doing you can:
 
 ### Dataset
 
-Dataset was generated using the below models.
+Dataset was generated using the below models. 
 
 -[GPEN](https://github.com/yangxy/GPEN)
 
 -[GFPGAN](https://github.com/TencentARC/GFPGAN)
+
+[ffhq] https://github.com/NVlabs/ffhq-dataset can be used, but generating a dataset would help in dealing with real image problems.
+
 
 ### Implementation Details
 - Model architecture: [fastai v1 u-net](https://fastai1.fast.ai/vision.models.unet.html)
