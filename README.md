@@ -5,6 +5,7 @@ Demo:
 If you like what I'm doing you can:
 
 - follow me on [twitter](https://twitter.com/Vijish68859437)
+- Check my other projects [GitHub](https://github.com/vijishmadhavan)
 
 
 
