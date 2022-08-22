@@ -1,1 +1,1 @@
-# Chehara-GAN
+# चेहरा-GAN
