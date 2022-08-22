@@ -55,6 +55,6 @@ Dataset was generated using the below models.
 
 ### Limitation
 
-I call this a trial v0.1 as it needs improvement, I would like to train this with a big dataset.
+- I call this a trial v0.1 as it needs improvement, I would like to train this with a big dataset.
 
 
