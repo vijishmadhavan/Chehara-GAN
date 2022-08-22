@@ -40,7 +40,7 @@ Dataset was generated using the below models.
 
 -[FFHQ](https://github.com/NVlabs/ffhq-dataset) can be used, but generating a dataset would help in dealing with real image problems.
 
--Generated dataset was croped to facial features and then trained.
+-Generated dataset was cropped to facial features and then trained.
 
 ![Superstar](https://github.com/vijishmadhavan/Chehara-GAN/blob/master/compare/facial%20feature-side.jpg)
 
