@@ -32,5 +32,9 @@ Dataset was generated using the below models.
 
 -[GFPGAN](https://github.com/TencentARC/GFPGAN)
 
+### Implementation Details
+- Model architecture: [fastai v1 u-net](https://fastai1.fast.ai/vision.models.unet.html)
+- Paired image2image training: [fastai v1 superres notebook](https://github.com/aarcosg/fastai-course-v3-notes/blob/master/refactored_by_topics/CNN_L7_gan_feature-loss.md)
+
 
 
