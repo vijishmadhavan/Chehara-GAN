@@ -47,6 +47,9 @@ Dataset was generated using the below models.
 
 ![Superstar](https://github.com/vijishmadhavan/Chehara-GAN/blob/master/compare/facial%20feature-side.jpg)
 
+### Weights
+
+[beta-v0.2](https://www.dropbox.com/s/d43p26ikzlxuyix/p4500.pkl?dl=1)
 
 
 ### Implementation Details
