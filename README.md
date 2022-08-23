@@ -1,6 +1,6 @@
 # चेहरा-GAN
 
-A simple project, trained within a day or two using faicial features.
+A simple weekend project, trained within a day or two using faicial features. 
 
 **Demo:** [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/vijishmadhavan/Chehara-GAN/blob/master/%E0%A4%9A%E0%A5%87%E0%A4%B9%E0%A4%B0%E0%A4%BE_GAN.ipynb)
 
@@ -55,6 +55,7 @@ Dataset was generated using the below models.
 
 ### Limitation
 
-- I call this a trial v0.1 as it needs improvement, I would like to train this with a big dataset.
+- I call this a beta v0.1 as it needs improvement, I would like to train this with a big dataset.
+
 
 
