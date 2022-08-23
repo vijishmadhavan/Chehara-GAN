@@ -15,6 +15,9 @@ If you like what I'm doing you can:
 
 **Changelog**
 
+* 2022-08-023 [beta-v0.1](https://www.dropbox.com/s/d43p26ikzlxuyix/p4500.pkl?dl=1)
+
+
 * 2022-08-022 Colab demo v0.1 [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/vijishmadhavan/Chehara-GAN/blob/master/%E0%A4%9A%E0%A5%87%E0%A4%B9%E0%A4%B0%E0%A4%BE_GAN.ipynb)
 
 
