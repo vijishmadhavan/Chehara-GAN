@@ -20,6 +20,7 @@ If you like what I'm doing you can:
 **Changelog**
 * 2022-08-026 Use this [weights](https://www.dropbox.com/s/1818xtxblsyrv45/c2.pth?dl=1) to train it further.
 
+* 2022-08-026 **Demo v0.2:** [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/vijishmadhavan/Chehara-GAN/blob/master/%E0%A4%9A%E0%A5%87%E0%A4%B9%E0%A4%B0%E0%A4%BE_GAN.ipynb)
 
 * 2022-08-026 [beta-v0.2](https://www.dropbox.com/s/iiqvfu58as8unz1/p6500.pkl?dl=1)
 
