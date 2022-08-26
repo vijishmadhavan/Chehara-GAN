@@ -59,7 +59,10 @@ Dataset was generated using the below models.
 ### Weights
 
 [beta-v0.1](https://www.dropbox.com/s/d43p26ikzlxuyix/p4500.pkl?dl=1)
+
 [beta-v0.2](https://www.dropbox.com/s/iiqvfu58as8unz1/p6500.pkl?dl=1)
+
+- works well with color photos. 
 
 
 ### Implementation Details
