@@ -1,6 +1,6 @@
 # चेहरा-GAN
 
-A simple weekend project, trained within a day or two using faicial features. 
+Beta model, might have issues. 
 
 **Demo v0.2:** [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/vijishmadhavan/Chehara-GAN/blob/master/%E0%A4%9A%E0%A5%87%E0%A4%B9%E0%A4%B0%E0%A4%BE_GAN.ipynb)
 
