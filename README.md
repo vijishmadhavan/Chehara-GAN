@@ -14,6 +14,8 @@ If you like what I'm doing you can:
 - You can sponsor me to support my open source work 💖 [sponsor](https://github.com/sponsors/vijishmadhavan?o=sd&sc=t)
 
 **Changelog**
+* 2022-08-026 [beta-v0.2](https://www.dropbox.com/s/iiqvfu58as8unz1/p6500.pkl?dl=1)
+
 
 * 2022-08-023 [beta-v0.1](https://www.dropbox.com/s/d43p26ikzlxuyix/p4500.pkl?dl=1)
 
@@ -57,6 +59,7 @@ Dataset was generated using the below models.
 ### Weights
 
 [beta-v0.1](https://www.dropbox.com/s/d43p26ikzlxuyix/p4500.pkl?dl=1)
+[beta-v0.2](https://www.dropbox.com/s/iiqvfu58as8unz1/p6500.pkl?dl=1)
 
 
 ### Implementation Details
