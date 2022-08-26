@@ -81,7 +81,7 @@ Use this [weights](https://www.dropbox.com/s/1818xtxblsyrv45/c2.pth?dl=1) to tra
 
 ### Limitation
 
-- I call this a beta as it needs improvement, I would like to train this with a big dataset.
+- I call this a beta as it needs lot of improvement, But with minimum effort the results are good.
 
 
 
