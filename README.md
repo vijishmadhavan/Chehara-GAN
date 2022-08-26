@@ -18,6 +18,9 @@ If you like what I'm doing you can:
 - You can sponsor me to support my open source work 💖 [sponsor](https://github.com/sponsors/vijishmadhavan?o=sd&sc=t)
 
 **Changelog**
+* 2022-08-026 Use this [weights](https://www.dropbox.com/s/1818xtxblsyrv45/c2.pth?dl=1) to train it further.
+
+
 * 2022-08-026 [beta-v0.2](https://www.dropbox.com/s/iiqvfu58as8unz1/p6500.pkl?dl=1)
 
 
@@ -60,11 +63,13 @@ Dataset was generated using the below models.
 
 ![Superstar](https://github.com/vijishmadhavan/Chehara-GAN/blob/master/compare/facial%20feature-side.jpg)
 
-### Weights
+### Model
 
 [beta-v0.1](https://www.dropbox.com/s/d43p26ikzlxuyix/p4500.pkl?dl=1)
 
 [beta-v0.2](https://www.dropbox.com/s/iiqvfu58as8unz1/p6500.pkl?dl=1)
+
+Use this [weights](https://www.dropbox.com/s/1818xtxblsyrv45/c2.pth?dl=1) to train it further.
 
 - works well with color photos. 
 
@@ -75,7 +80,7 @@ Dataset was generated using the below models.
 
 ### Limitation
 
-- I call this a beta v0.1 as it needs improvement, I would like to train this with a big dataset.
+- I call this a beta as it needs improvement, I would like to train this with a big dataset.
 
 
 
