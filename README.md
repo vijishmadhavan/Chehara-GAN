@@ -7,7 +7,6 @@
 **Demo v0.1:** [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/vijishmadhavan/Chehara-GAN/blob/master/%E0%A4%9A%E0%A5%87%E0%A4%B9%E0%A4%B0%E0%A4%BE_GAN_v1.ipynb)
 
 
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=vijishmadhavan.Chehara-GAN)
 
 
@@ -37,7 +36,9 @@ If you like what I'm doing you can:
 
 ## Example Images
 
-![Superstar](https://github.com/vijishmadhavan/Chehara-GAN/blob/master/compare/sidee.png
+**64×64 -> 512×512**
+
+![Superstar](https://github.com/vijishmadhavan/Chehara-GAN/blob/master/compare/0_41_inf-side.png)
 
 
 ### Image samples 
