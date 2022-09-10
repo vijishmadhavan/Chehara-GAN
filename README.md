@@ -40,6 +40,8 @@ If you like what I'm doing you can:
 
 ![Superstar](https://github.com/vijishmadhavan/Chehara-GAN/blob/master/compare/0_41_inf-side.png)
 
+![Superstar](https://github.com/vijishmadhavan/Chehara-GAN/blob/master/compare/0_21_inf-side.png)
+
 
 ### Image samples 
 
