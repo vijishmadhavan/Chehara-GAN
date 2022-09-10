@@ -18,7 +18,7 @@ If you like what I'm doing you can:
 - You can sponsor me to support my open source work 💖 [sponsor](https://github.com/sponsors/vijishmadhavan?o=sd&sc=t)
 
 **Changelog**
-* 2022-09-010 Tested it on 64×64 -> 512×512 on FFHQ-CelebaHQ
+* 2022-09-010 Tested it on 64×64 -> 512×512 on FFHQ-CelebaHQ - [Example Images](#Example-Images)
 
 * 2022-08-026 Use this [weights](https://www.dropbox.com/s/1818xtxblsyrv45/c2.pth?dl=1) to train it further.
 
@@ -34,6 +34,10 @@ If you like what I'm doing you can:
 
 
 * 2022-08-022 Fast.ai model training [url](https://github.com/aarcosg/fastai-course-v3-notes/blob/master/refactored_by_topics/CNN_L7_gan_feature-loss.md)
+
+## Example Images
+
+![Superstar](https://github.com/vijishmadhavan/Chehara-GAN/blob/master/compare/sidee.png
 
 
 ### Image samples 
