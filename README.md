@@ -18,6 +18,8 @@ If you like what I'm doing you can:
 - You can sponsor me to support my open source work 💖 [sponsor](https://github.com/sponsors/vijishmadhavan?o=sd&sc=t)
 
 **Changelog**
+* 2022-09-010 Tested it on 64×64 -> 512×512 on FFHQ-CelebaHQ
+
 * 2022-08-026 Use this [weights](https://www.dropbox.com/s/1818xtxblsyrv45/c2.pth?dl=1) to train it further.
 
 * 2022-08-026 **Colab Demo v0.2:** [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/vijishmadhavan/Chehara-GAN/blob/master/%E0%A4%9A%E0%A5%87%E0%A4%B9%E0%A4%B0%E0%A4%BE_GAN.ipynb)
